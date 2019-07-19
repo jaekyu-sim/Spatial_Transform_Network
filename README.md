@@ -11,3 +11,6 @@ To train my network in rotated image, I made file that rotate input image random
 
 To train my network in translated image, I made file that translate input image randomly
 ![Translated Image test](/Image/2.PNG)
+
+
+ref. https://github.com/kevinzakka/spatial-transformer-network
